@@ -117,7 +117,7 @@ public class Calculator
                 label.setText(display);
             }
         }));
-        // Adding - button
+        // Adding / button
         JButton divideButton = new JButton("/", null);
         divideButton.addActionListener((new ActionListener() {
             public void actionPerformed(ActionEvent e)
@@ -186,6 +186,7 @@ public class Calculator
         jFrame.add(timesButton);
         jFrame.add(divideButton);
         jFrame.add(equalButton);
+        jFrame.add(clearButton);
         jFrame.add(label);
 
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
