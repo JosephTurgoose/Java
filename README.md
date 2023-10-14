@@ -4,9 +4,7 @@ I made a simple Java gui framework that works as a very basic calculator.  I did
 
 The purpose of this project was to challenge myself to learn Java within two weeks while also working and doing school full time.  I wanted to see how far I could get with an unfamiliar system and this is the result.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zvWzNzhQkkI)
 
 # Development Environment
 
